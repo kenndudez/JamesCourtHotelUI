@@ -312,7 +312,7 @@
 	border: 1px solid #fbcb09;
 	background: #fdf5ce;
 	font-weight: bold;
-	color: #d77b5d;
+	color: #DEB151;
 }
 
 .ui-widget-header .ui-state-hover,
@@ -330,21 +330,21 @@
 .ui-state-focus a:hover,
 .ui-state-focus a:link,
 .ui-state-focus a:visited {
-	color: #d77b5d;
+	color: #DEB151;
 	text-decoration: none;
 }
 .ui-state-active,
 .ui-widget-content .ui-state-active,
 .ui-widget-header .ui-state-active {
-	border: 1px solid #d77b5d;
+	border: 1px solid #DEB151;
 	background: #ffffff;
 	font-weight: bold;
-	color: #d77b5d;
+	color: #DEB151;
 }
 .ui-state-active a,
 .ui-state-active a:link,
 .ui-state-active a:visited {
-	color: #d77b5d;
+	color: #DEB151;
 	text-decoration: none;
 }
 
@@ -353,8 +353,8 @@
 .ui-state-highlight,
 .ui-widget-content .ui-state-highlight,
 .ui-widget-header .ui-state-highlight {
-	border: 1px solid #d77b5d;
-	background: #d77b5d;
+	border: 1px solid #DEB151;
+	background: #DEB151;
 	color: #ffffff;
 }
 .ui-state-highlight a,
